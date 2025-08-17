@@ -1,9 +1,9 @@
-# 👩🏻‍💻 Renata Teixeira
+# 👩🏻‍💻 /Silas Freitas
 
-Desenvolvedora de sistemas
+Desenvolvedor de sistemas
 
-Óla! Me chamo Renata Teixeira de Jesus, curso Análise e desenvolvimento de Sistemas(ADS) no UNICEUB.
-Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora.
+Óla! Me chamo Silas de Souza Freitas Feijão, curso Análise e desenvolvimento de Sistemas(ADS) na instituição Cruzeiro do Sul.
+Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futuro desenvolvedor.
 
 ### Meus Contatos
 
